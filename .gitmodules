@@ -1,0 +1,3 @@
+[submodule "wuhan_vaccine/booking_bombardier"]
+	path = wuhan_vaccine/booking_bombardier
+	url = https://github.com/bombardier-gif/covid-vaccine-booking.git
